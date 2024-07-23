@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "Edit Photos For Free",
-  siteUrl: 'https://editphotosforfree.com',
+  siteName: "PhotoEditor",
+  siteUrl: 'https://pe.loi.icu',
   pathPrefix: '',
   siteDescription: 'Edit Photos For Free is collection of image tools and apps for photographers and designers',
   plugins: [
